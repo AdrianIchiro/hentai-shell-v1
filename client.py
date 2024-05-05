@@ -24,7 +24,7 @@ while True:
         s.send(str.encode(cmdout_str + str(os.getcwd()) + '> '))
         print(cmdout_str)
 
-# masih tahap pengembangan
+# development stage
 
 # while True:
 #     data = s.recv(1024)
