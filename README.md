@@ -25,4 +25,4 @@ port = 4040 (free set)
 Thank for use this script enjoy and happy hacking :)
 
 "a good hacker is a hacker who does not destroy"
-- Is me.
+*Is me.
