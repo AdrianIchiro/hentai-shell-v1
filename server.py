@@ -48,3 +48,5 @@ def main():
     accept_conn()
 
 main()
+
+# The script is original of me :)
